@@ -11,7 +11,7 @@ B012ED deface is a tool for defacing very easy to use than the previous version.
 * `pkg install python2`
 * `pip2 install requests`
 * `pkg install git`
-* `git clone https://github.com/B012ED/deface2`
+* `git clone https://github.com/B012ED/deface2.git`
 * `cd deface2`
 * `python2 def2.py`
 
@@ -20,7 +20,7 @@ B012ED deface is a tool for defacing very easy to use than the previous version.
 * `apt-get install python-pip`
 * `pip install requests`
 * `apt-get install git`
-* `git clone https://github.com/B012ED/deface2`
+* `git clone https://github.com/B012ED/deface2.git`
 * `cd deface2`
 * `python def2.py`
 
